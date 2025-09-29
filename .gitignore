@@ -1,0 +1,4 @@
+node_modules/
+dist/
+git commit -m "Очистив репозиторій від node_modules і dist, додав .gitignore"
+
